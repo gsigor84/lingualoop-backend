@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6402bab8-612d-4bfc-8b4a-c472efca2674" name="Changes" comment="" />
+    <list default="true" id="6402bab8-612d-4bfc-8b4a-c472efca2674" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai/generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/quiz_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai/quiz_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/rhyme_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai/rhyme_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/toolkit_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai/toolkit_builder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/unsplash_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai/unsplash_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
